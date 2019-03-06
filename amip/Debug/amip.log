@@ -1,0 +1,10 @@
+﻿  main.cpp
+t:\sock\amip\amip\amip\communicationinterface.h(72): warning C4091: 'static ': ignored on left of 'InitInvironment' when no variable is declared
+t:\sock\amip\amip\amip\communicationinterface.h(114): warning C4091: 'static ': ignored on left of 'TCPListenAccept' when no variable is declared
+t:\sock\amip\amip\amip\main.cpp(48): warning C4101: 'testingData': unreferenced local variable
+  CommunicationInterface.cpp
+t:\sock\amip\amip\amip\communicationinterface.h(72): warning C4091: 'static ': ignored on left of 'InitInvironment' when no variable is declared
+t:\sock\amip\amip\amip\communicationinterface.h(114): warning C4091: 'static ': ignored on left of 'TCPListenAccept' when no variable is declared
+  Generating Code...
+  amip.vcxproj -> T:\sock\amip\amip\Debug\amip.exe
+  amip.vcxproj -> T:\sock\amip\amip\Debug\amip.pdb (Full PDB)
